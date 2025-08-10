@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\inetpub\wwwroot\FruitSky</_PublishTargetUrl>
+    <History>False|2024-01-25T16:50:46.3703494Z;False|2024-01-25T23:49:29.0344950+07:00;False|2024-01-25T23:44:01.2822905+07:00;False|2024-01-25T23:38:53.4917790+07:00;False|2024-01-25T23:36:49.1719237+07:00;False|2024-01-25T23:36:12.2454376+07:00;False|2024-01-25T23:31:41.0738465+07:00;False|2024-01-25T23:29:55.2888136+07:00;False|2024-01-25T23:27:04.3830159+07:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="ConnectedDb">
+      <Value>Data Source=Lenovo%3bInitial Catalog=FruitSky%3bUser ID=sa%3bPassword=1234%3bEncrypt=True%3bTrust Server Certificate=True</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="FruitSky.Repository.DataContext">
+      <Value>Data Source=Lenovo%3bInitial Catalog=FruitSky%3bUser ID=sa%3bPassword=1234%3bEncrypt=True%3bTrust Server Certificate=True</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

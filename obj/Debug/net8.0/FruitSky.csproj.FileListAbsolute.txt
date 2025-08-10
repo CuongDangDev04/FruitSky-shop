@@ -1,0 +1,562 @@
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/appsettings.json
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/FruitSky.staticwebassets.runtime.json
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/FruitSky.exe
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/FruitSky.deps.json
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/FruitSky.runtimeconfig.json
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/FruitSky.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/FruitSky.pdb
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/Azure.Core.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/Azure.Identity.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/BCrypt.Net-Next.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/Humanizer.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/JetBrains.Annotations.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/Mono.TextTemplating.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/Newtonsoft.Json.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/System.CodeDom.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/System.Composition.Convention.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/System.Composition.Hosting.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/System.Composition.Runtime.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/System.Composition.TypedParts.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/System.Drawing.Common.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/System.Memory.Data.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/System.Runtime.Caching.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/System.Security.Permissions.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/System.Windows.Extensions.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/X.PagedList.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/X.PagedList.Mvc.Core.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/obj/Debug/net8.0/FruitSky.csproj.AssemblyReference.cache
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/obj/Debug/net8.0/FruitSky.GeneratedMSBuildEditorConfig.editorconfig
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/obj/Debug/net8.0/FruitSky.AssemblyInfoInputs.cache
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/obj/Debug/net8.0/FruitSky.AssemblyInfo.cs
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/obj/Debug/net8.0/FruitSky.csproj.CoreCompileInputs.cache
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/obj/Debug/net8.0/FruitSky.MvcApplicationPartsAssemblyInfo.cs
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/obj/Debug/net8.0/FruitSky.MvcApplicationPartsAssemblyInfo.cache
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/obj/Debug/net8.0/FruitSky.RazorAssemblyInfo.cache
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/obj/Debug/net8.0/FruitSky.RazorAssemblyInfo.cs
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/obj/Debug/net8.0/staticwebassets.build.json
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/obj/Debug/net8.0/staticwebassets.development.json
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/obj/Debug/net8.0/staticwebassets/msbuild.FruitSky.Microsoft.AspNetCore.StaticWebAssets.props
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/obj/Debug/net8.0/staticwebassets/msbuild.build.FruitSky.props
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.FruitSky.props
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.FruitSky.props
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/obj/Debug/net8.0/staticwebassets.pack.json
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/obj/Debug/net8.0/scopedcss/bundle/FruitSky.styles.css
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/obj/Debug/net8.0/FruitSky.csproj.CopyComplete
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/obj/Debug/net8.0/FruitSky.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/obj/Debug/net8.0/refint/FruitSky.dll
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/obj/Debug/net8.0/FruitSky.pdb
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/obj/Debug/net8.0/FruitSky.genruntimeconfig.cache
+D:/ASP.NET_Basic/LabLTWeb/FruitSky/FruitSky/obj/Debug/net8.0/ref/FruitSky.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/appsettings.json
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/FruitSky.staticwebassets.runtime.json
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/FruitSky.exe
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/FruitSky.deps.json
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/FruitSky.runtimeconfig.json
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/FruitSky.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/FruitSky.pdb
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/Azure.Core.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/Azure.Identity.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/BCrypt.Net-Next.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/Humanizer.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/JetBrains.Annotations.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/Mono.TextTemplating.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/Newtonsoft.Json.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/System.CodeDom.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/System.Composition.Convention.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/System.Composition.Hosting.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/System.Composition.Runtime.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/System.Composition.TypedParts.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/System.Drawing.Common.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/System.Memory.Data.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/System.Runtime.Caching.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/System.Security.Permissions.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/System.Windows.Extensions.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/X.PagedList.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/X.PagedList.Mvc.Core.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/obj/Debug/net8.0/FruitSky.csproj.AssemblyReference.cache
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/obj/Debug/net8.0/FruitSky.GeneratedMSBuildEditorConfig.editorconfig
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/obj/Debug/net8.0/FruitSky.AssemblyInfoInputs.cache
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/obj/Debug/net8.0/FruitSky.AssemblyInfo.cs
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/obj/Debug/net8.0/FruitSky.csproj.CoreCompileInputs.cache
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/obj/Debug/net8.0/FruitSky.MvcApplicationPartsAssemblyInfo.cs
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/obj/Debug/net8.0/FruitSky.MvcApplicationPartsAssemblyInfo.cache
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/obj/Debug/net8.0/FruitSky.RazorAssemblyInfo.cache
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/obj/Debug/net8.0/FruitSky.RazorAssemblyInfo.cs
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/obj/Debug/net8.0/staticwebassets.build.json
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/obj/Debug/net8.0/staticwebassets.development.json
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/obj/Debug/net8.0/staticwebassets/msbuild.FruitSky.Microsoft.AspNetCore.StaticWebAssets.props
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/obj/Debug/net8.0/staticwebassets/msbuild.build.FruitSky.props
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.FruitSky.props
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.FruitSky.props
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/obj/Debug/net8.0/staticwebassets.pack.json
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/obj/Debug/net8.0/scopedcss/bundle/FruitSky.styles.css
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/obj/Debug/net8.0/FruitSky.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/obj/Debug/net8.0/refint/FruitSky.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/obj/Debug/net8.0/FruitSky.pdb
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/obj/Debug/net8.0/FruitSky.genruntimeconfig.cache
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/obj/Debug/net8.0/ref/FruitSky.dll
+D:/DoAn/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/obj/Debug/net8.0/FruitSky.csproj.Up2Date
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/appsettings.json
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/FruitSky.staticwebassets.runtime.json
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/FruitSky.staticwebassets.endpoints.json
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/FruitSky.exe
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/FruitSky.deps.json
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/FruitSky.runtimeconfig.json
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/FruitSky.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/FruitSky.pdb
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/Azure.Core.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/Azure.Identity.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/BCrypt.Net-Next.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/Humanizer.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/JetBrains.Annotations.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/Mono.TextTemplating.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/Newtonsoft.Json.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/System.CodeDom.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/System.Composition.Convention.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/System.Composition.Hosting.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/System.Composition.Runtime.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/System.Composition.TypedParts.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/System.Drawing.Common.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/System.Memory.Data.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/System.Runtime.Caching.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/System.Security.Permissions.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/System.Windows.Extensions.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/X.PagedList.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/X.PagedList.Mvc.Core.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/obj/Debug/net8.0/FruitSky.csproj.AssemblyReference.cache
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/obj/Debug/net8.0/FruitSky.GeneratedMSBuildEditorConfig.editorconfig
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/obj/Debug/net8.0/FruitSky.AssemblyInfoInputs.cache
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/obj/Debug/net8.0/FruitSky.AssemblyInfo.cs
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/obj/Debug/net8.0/FruitSky.csproj.CoreCompileInputs.cache
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/obj/Debug/net8.0/FruitSky.MvcApplicationPartsAssemblyInfo.cs
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/obj/Debug/net8.0/FruitSky.MvcApplicationPartsAssemblyInfo.cache
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/obj/Debug/net8.0/FruitSky.RazorAssemblyInfo.cache
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/obj/Debug/net8.0/FruitSky.RazorAssemblyInfo.cs
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/obj/Debug/net8.0/scopedcss/bundle/FruitSky.styles.css
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/obj/Debug/net8.0/staticwebassets.build.json
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/obj/Debug/net8.0/staticwebassets.development.json
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/obj/Debug/net8.0/staticwebassets/msbuild.FruitSky.Microsoft.AspNetCore.StaticWebAssets.props
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/obj/Debug/net8.0/staticwebassets/msbuild.FruitSky.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/obj/Debug/net8.0/staticwebassets/msbuild.build.FruitSky.props
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.FruitSky.props
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.FruitSky.props
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/obj/Debug/net8.0/staticwebassets.pack.json
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/obj/Debug/net8.0/staticwebassets.upToDateCheck.txt
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/obj/Debug/net8.0/FruitSky.csproj.Up2Date
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/obj/Debug/net8.0/FruitSky.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/obj/Debug/net8.0/refint/FruitSky.dll
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/obj/Debug/net8.0/FruitSky.pdb
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/obj/Debug/net8.0/FruitSky.genruntimeconfig.cache
+D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/obj/Debug/net8.0/ref/FruitSky.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/appsettings.json
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/FruitSky.staticwebassets.runtime.json
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/FruitSky.staticwebassets.endpoints.json
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/FruitSky
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/FruitSky.deps.json
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/FruitSky.runtimeconfig.json
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/FruitSky.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/FruitSky.pdb
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/Azure.Core.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/Azure.Identity.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/BCrypt.Net-Next.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/Humanizer.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/JetBrains.Annotations.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/System.CodeDom.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/System.Drawing.Common.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/System.Memory.Data.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/System.Runtime.Caching.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/System.Security.Permissions.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/System.Windows.Extensions.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/X.PagedList.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/X.PagedList.Mvc.Core.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/cuong/my_project/FruitSky/FruitSky/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/cuong/my_project/FruitSky/FruitSky/obj/Debug/net8.0/FruitSky.csproj.AssemblyReference.cache
+/Users/cuong/my_project/FruitSky/FruitSky/obj/Debug/net8.0/rpswa.dswa.cache.json
+/Users/cuong/my_project/FruitSky/FruitSky/obj/Debug/net8.0/FruitSky.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cuong/my_project/FruitSky/FruitSky/obj/Debug/net8.0/FruitSky.AssemblyInfoInputs.cache
+/Users/cuong/my_project/FruitSky/FruitSky/obj/Debug/net8.0/FruitSky.AssemblyInfo.cs
+/Users/cuong/my_project/FruitSky/FruitSky/obj/Debug/net8.0/FruitSky.csproj.CoreCompileInputs.cache
+/Users/cuong/my_project/FruitSky/FruitSky/obj/Debug/net8.0/FruitSky.MvcApplicationPartsAssemblyInfo.cs
+/Users/cuong/my_project/FruitSky/FruitSky/obj/Debug/net8.0/FruitSky.MvcApplicationPartsAssemblyInfo.cache
+/Users/cuong/my_project/FruitSky/FruitSky/obj/Debug/net8.0/FruitSky.RazorAssemblyInfo.cache
+/Users/cuong/my_project/FruitSky/FruitSky/obj/Debug/net8.0/FruitSky.RazorAssemblyInfo.cs
+/Users/cuong/my_project/FruitSky/FruitSky/obj/Debug/net8.0/rjimswa.dswa.cache.json
+/Users/cuong/my_project/FruitSky/FruitSky/obj/Debug/net8.0/rjsmrazor.dswa.cache.json
+/Users/cuong/my_project/FruitSky/FruitSky/obj/Debug/net8.0/rjsmcshtml.dswa.cache.json
+/Users/cuong/my_project/FruitSky/FruitSky/obj/Debug/net8.0/scopedcss/bundle/FruitSky.styles.css
+/Users/cuong/my_project/FruitSky/FruitSky/obj/Debug/net8.0/staticwebassets.build.json
+/Users/cuong/my_project/FruitSky/FruitSky/obj/Debug/net8.0/staticwebassets.build.json.cache
+/Users/cuong/my_project/FruitSky/FruitSky/obj/Debug/net8.0/staticwebassets.development.json
+/Users/cuong/my_project/FruitSky/FruitSky/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+/Users/cuong/my_project/FruitSky/FruitSky/obj/Debug/net8.0/FruitSky.csproj.Up2Date
+/Users/cuong/my_project/FruitSky/FruitSky/obj/Debug/net8.0/FruitSky.dll
+/Users/cuong/my_project/FruitSky/FruitSky/obj/Debug/net8.0/refint/FruitSky.dll
+/Users/cuong/my_project/FruitSky/FruitSky/obj/Debug/net8.0/FruitSky.pdb
+/Users/cuong/my_project/FruitSky/FruitSky/obj/Debug/net8.0/FruitSky.genruntimeconfig.cache
+/Users/cuong/my_project/FruitSky/FruitSky/obj/Debug/net8.0/ref/FruitSky.dll

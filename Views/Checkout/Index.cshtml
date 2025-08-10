@@ -1,0 +1,148 @@
+﻿@{
+    ViewBag.Title = "Thanh toán";
+}
+@model FruitSky.Models.ViewModels.CheckoutViewModel
+@using FruitSky.Models.ViewModels
+<!-- breadcrumb-section -->
+<div class="breadcrumb-section breadcrumb-bg">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 offset-lg-2 text-center">
+                <div class="breadcrumb-text">
+                    <p>Tươi mới và sạch</p>
+                    <h1>Thanh toán</h1>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end breadcrumb section -->
+<!-- check out section -->
+<div class="checkout-section mt-150 mb-150">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8">
+                <div class="checkout-accordion-wrap">
+                    <div class="accordion" id="accordionExample">
+                        <div class="card single-accordion">
+                            <div class="card-header" id="headingOne">
+                                <h5 class="mb-0">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                        Phương thức thanh toán
+                                    </button>
+                                </h5>
+                            </div>
+                            <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+                                <div class="card-body">
+                                    <div class="card-details">
+                                        <p>Chỉ hỗ trợ phương thức thanh toán khi nhận hàng.</p>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                        </div>
+                        <div class="card single-accordion">
+                            <div class="card-header" id="headingTwo">
+                                <h5 class="mb-0">
+                                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                        Thông tin đặt hàng
+                                    </button>
+                                </h5>
+                            </div>
+
+                            <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
+                                <div class="card-body">
+                                    <div class="billing-address-form">
+                                        <div class="billing-address-form">
+                                            <form asp-action="ordersuccessful" asp-controller="Checkout" method="post">
+                                                <p><input asp-for="CheckoutModel.FullName" type="text" placeholder="Họ tên" required></p>
+                                                <p><input asp-for="CheckoutModel.Email" type="email" placeholder="Email" required></p>
+                                                <p><input asp-for="CheckoutModel.Phone" type="tel" placeholder="Số điện thoại" required></p>
+                                                <p><input asp-for="CheckoutModel.Address" type="text" placeholder="Địa chỉ nhận hàng" required></p>
+                                                <p><input asp-for="CheckoutModel.Note" type="text" cols="30" rows="10" placeholder="Ghi chú về đơn hàng, ví dụ: thời gian hay chỉ dẫn địa điểm giao hàng, chi tiết đơn" required></p>
+                                                <p><input  class="boxed-btn" type="submit" value="Hoàn tất đơn đặt hàng"></p>
+                                            </form>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                       
+
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="col-lg-4">
+                <div class="order-details-wrap">
+                    <table class="order-details">
+                        <thead>
+                            <tr>
+                                <th>Chi tiết đơn đặt hàng</th>
+                                <th>Giá</th>
+                            </tr>
+                        </thead>
+                        <tbody class="order-details-body">
+                            <tr>
+                                <td>Tổng</td>
+                                <td>Giá</td>
+                            </tr>
+                            @foreach (var item in Model.CartItemViewModel.CartItems)
+                            {
+                                <tr>
+                                    <td>@item.ProductName </td>
+                                    <td>@item.Price Đ</td>
+                                </tr>
+                            }
+                        </tbody>
+                        <tbody class="checkout-details">
+                            <tr>
+                                <td>Tổng tiền tạm tính</td>
+                                <td>@Model.CartItemViewModel.GrandTotal.ToString() Đ</td>
+                            </tr>
+                            <tr>
+                                <td>Phí vận chuyển</td>
+                                <td>Miễn phí</td>
+                            </tr>
+                            <tr>
+                                <td>Tổng số tiền</td>
+                                <td>@Model.CartItemViewModel.GrandTotal.ToString() Đ</td>
+                            </tr>
+                        </tbody>
+                    </table>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end check out section -->
+<!-- logo carousel -->
+<div class="logo-carousel-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="logo-carousel-inner">
+                    <div class="single-logo-item">
+                        <img src="~/img/company-logos/1.png" alt="">
+                    </div>
+                    <div class="single-logo-item">
+                        <img src="~/img/company-logos/2.png" alt="">
+                    </div>
+                    <div class="single-logo-item">
+                        <img src="~/img/company-logos/3.png" alt="">
+                    </div>
+                    <div class="single-logo-item">
+                        <img src="~/img/company-logos/4.png" alt="">
+                    </div>
+                    <div class="single-logo-item">
+                        <img src="~/img/company-logos/5.png" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end logo carousel -->

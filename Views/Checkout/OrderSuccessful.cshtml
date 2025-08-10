@@ -1,0 +1,72 @@
+﻿ @model FruitSky.Models.ViewModels.CheckoutViewModel
+@using FruitSky.Models.ViewModels
+@{
+    ViewBag.Title = "Đặt hàng thành công";
+}
+<!-- breadcrumb-section -->
+<div class="breadcrumb-section breadcrumb-bg">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 offset-lg-2 text-center">
+                <div class="breadcrumb-text">
+                    <p>Trái cây tươi và sạch</p>
+                    <h1>Đặt hàng thành công</h1>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- end breadcrumb section -->
+<div class="container mt-5">
+
+    <div class="row">
+        <div class="col-lg-6">
+            <h4>Thông tin đặt hàng</h4>
+            <p><strong>Họ tên:</strong> @Model.CheckoutModel.FullName</p>
+            <p><strong>Email:</strong> @Model.CheckoutModel.Email</p>
+            <p><strong>số điện thoại:</strong> @Model.CheckoutModel.Phone</p>
+            <p><strong>Địa chỉ:</strong> @Model.CheckoutModel.Address</p>
+            <p><strong>Ghi chú:</strong> @Model.CheckoutModel.Note</p>
+            <p><strong>Thời gian đặt hàng:</strong> @Model.CheckoutModel.OrderDate.ToString("dd/MM/yyyy HH:mm:ss")</p>
+        </div>
+    </div>
+
+    <div class="row mt-5">
+        <div class="col-lg-8">
+            <h4>Chi tiết đơn đặt hàng</h4>
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>Sản phẩm</th>
+                        <th>Giá</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model.CartItemViewModel.CartItems)
+                    {
+                        <tr>
+                            <td>@item.ProductName</td>
+                            <td>@item.Price Đ</td>
+                        </tr>
+                    }
+                </tbody>
+                <tfoot>
+                    <tr>
+                        <td>Tổng tiền tạm tính</td>
+                        <td>@Model.CartItemViewModel.GrandTotal.ToString()Đ</td>
+                    </tr>
+                    <tr>
+                        <td>Phí vận chuyển</td>
+                        <td>Miễn phí</td>
+                    </tr>
+                    <tr>
+                        <td>Tổng số tiền </td>
+                        <td>@Model.CartItemViewModel.GrandTotal.ToString() Đ</td>
+                    </tr>
+                </tfoot>
+            </table>
+        </div>
+    </div>
+
+</div>

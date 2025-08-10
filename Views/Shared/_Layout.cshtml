@@ -1,0 +1,214 @@
+﻿@using Microsoft.AspNetCore.Http
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="Responsive Bootstrap4 Shop Template, Created by Imran Hossain from https://imransdesign.com/">
+
+	<!-- title -->
+	<title>@ViewBag.Title</title>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+	<!-- favicon -->
+	<link rel="shortcut icon" type="~image/png" href="~/img/favicon.png">
+	<!-- google font -->
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Poppins:400,700&display=swap" rel="stylesheet">
+	<!-- fontawesome -->
+	<link rel="stylesheet" href="~/css/all.min.css">
+	<!-- bootstrap -->
+	<link rel="stylesheet" href="~/bootstrap/css/bootstrap.min.css">
+	<!-- owl carousel -->
+	<link rel="stylesheet" href="~/css/owl.carousel.css">
+	<!-- magnific popup -->
+	<link rel="stylesheet" href="~/css/magnific-popup.css">
+	<!-- animate css -->
+	<link rel="stylesheet" href="~/css/animate.css">
+	<!-- mean menu css -->
+	<link rel="stylesheet" href="~/css/meanmenu.min.css">
+	<!-- main style -->
+	<link rel="stylesheet" href="~/css/main.css">
+	<!-- responsive -->
+	<link rel="stylesheet" href="~/css/responsive.css">
+	<!--Login register-->
+	<link rel="stylesheet" href="~/css/loginregister.css">
+
+
+</head>
+<body>
+
+	<!--PreLoader-->
+	<div class="loader">
+		<div class="loader-inner">
+			<div class="circle"></div>
+		</div>
+	</div>
+	<!--PreLoader Ends-->
+	<!-- header -->
+	<div class="top-header-area" id="sticker">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-12 col-sm-12 text-center">
+					<div class="main-menu-wrap">
+						<!-- logo -->
+						<div class="site-logo">
+							<a asp-controller="Home" asp-action="index">
+								<img src="~/img/logo.png" alt="">
+							</a>
+						</div>
+						<!-- logo -->
+						<!-- menu start -->
+						
+						<nav class="main-menu">
+							<ul>
+								<li >
+									<a asp-controller="Home" asp-action="index">Trang chủ</a>
+								</li>
+								<li>
+									<a asp-controller="Shop" asp-action="index">Cửa hàng</a>
+								</li>
+								<li><a asp-controller="About" asp-action="index">Giới thiệu</a></li>
+								<li><a asp-controller="Contact" asp-action="index">Liên hệ</a></li>
+								<li>
+									<div class="header-icons">
+										<a class="shopping-cart" asp-controller="Cart" asp-action="Index"><i class="fas fa-shopping-cart"></i></a>
+										<a class="mobile-hide search-bar-icon" href="#"><i class="fas fa-search"></i></a>
+
+										@if (Context.Session.GetString("Username") != null)
+										{
+											<span class="User-icon"><strong style="color:white">@Context.Session.GetString("Username") </strong> <i class="fa-solid fa-user-check text-light"></i></span>
+											<a asp-action="Logout" asp-controller="Account" class="User-icon">Đăng xuất</a>
+										}
+										else
+										{
+											<a asp-action="Index" asp-controller="Account" class="User-icon"><i class="fa-solid fa-user"></i></a>
+										}
+									</div>
+								</li>
+							</ul>
+						</nav>
+						<a class="mobile-show search-bar-icon" href="#"><i class="fas fa-search"></i></a>
+						<div class="mobile-menu"></div>
+						<!-- menu end -->
+
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- end header -->
+	<!-- search area -->
+	<div class="search-area">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-12">
+					<span class="close-btn"><i class="fas fa-window-close"></i></span>
+					<form asp-controller="Shop" asp-action="Search"  method="post" class="search-bar">
+						<div class="search-bar-tablecell">
+							<h3>Mời nhập tên sản phẩm cần tìm kiếm:</h3>
+							<input type="text" name="keyWord" placeholder="Tên sản phẩm" required>
+							<button type="submit">Tìm kiếm <i class="fas fa-search"></i></button>
+						</div>
+					</form>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<!-- end search area -->
+	@RenderBody()
+
+	<!-- footer -->
+	<div class="footer-area">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-3 col-md-6">
+					<div class="footer-box about-widget">
+						<h2 class="widget-title">Về chúng tôi</h2>
+						<p>Chào mừng bạn đến với trang web của chúng tôi - nơi bạn có thể khám phá và mua sắm những trái cây tươi ngon nhất.</p>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-6">
+					<div class="footer-box get-in-touch">
+						<h2 class="widget-title">Địa chỉ</h2>
+						<ul>
+							<li>331 QL1A, An Phú Đông, Q.12, TPHCM</li>
+							<li>support@fruitsky.com</li>
+							<li>0123456789</li>
+						</ul>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-6">
+					<div class="footer-box pages">
+						<h2 class="widget-title">Trang</h2>
+						<ul>
+							<li><a asp-action="index" asp-controller="home">Trang chủ</a></li>
+							<li><a asp-action="index" asp-controller="about">Giới thiệu</a></li>
+							<li><a asp-action="index" asp-controller="shop">Cửa hàng</a></li>
+							<li><a asp-action="index" asp-controller="contact">Liên hệ</a></li>
+						</ul>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-6">
+					<div class="footer-box subscribe">
+						<h2 class="widget-title">Đăng kí</h2>
+						<p>Đăng kí để nhận được thông báo về những loại trái cây mới nhất.</p>
+						<form action="index.html">
+							<input type="email" placeholder="Email" required>
+							<button type="submit"><i class="fas fa-paper-plane"></i></button>
+						</form>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- end footer -->
+	<!-- copyright -->
+	<div class="copyright">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-6 col-md-12">
+					<p>
+						Copyrights &copy; 2019 - <a href="https://imransdesign.com/">Imran Hossain</a>,  All Rights Reserved.<br>
+						Distributed By - <a href="https://themewagon.com/">Themewagon</a>
+					</p>
+				</div>
+				<div class="col-lg-6 text-right col-md-12">
+					<div class="social-icons">
+						<ul>
+							<li><a href="#" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+							<li><a href="#" target="_blank"><i class="fab fa-twitter"></i></a></li>
+							<li><a href="#" target="_blank"><i class="fab fa-instagram"></i></a></li>
+							<li><a href="#" target="_blank"><i class="fab fa-linkedin"></i></a></li>
+							<li><a href="#" target="_blank"><i class="fab fa-dribbble"></i></a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- end copyright -->
+	<!-- jquery -->
+	<script src="~/js/jquery-1.11.3.min.js"></script>
+	<!-- bootstrap -->
+	<script src="~/bootstrap/js/bootstrap.min.js"></script>
+	<!-- count down -->
+	<script src="~/js/jquery.countdown.js"></script>
+	<!-- isotope -->
+	<script src="~/js/jquery.isotope-3.0.6.min.js"></script>
+	<!-- waypoints -->
+	<script src="~/js/waypoints.js"></script>
+	<!-- owl carousel -->
+	<script src="~/js/owl.carousel.min.js"></script>
+	<!-- magnific popup -->
+	<script src="~/js/jquery.magnific-popup.min.js"></script>
+	<!-- mean menu -->
+	<script src="~/js/jquery.meanmenu.min.js"></script>
+	<!-- sticker js -->
+	<script src="~/js/sticker.js"></script>
+	<!-- main js -->
+	<script src="~/js/main.js"></script>
+
+</body>
+</html>

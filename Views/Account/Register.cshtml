@@ -1,0 +1,43 @@
+﻿@model UserModel
+@{
+    ViewBag.Title = "Đăng kí";
+}
+<div class="login-wrap">
+    <div class="login-html">
+        <label class="tab"><strong>Đăng kí</strong></label>
+        <div class="login-form">
+            <form asp-action="Register" method="post" class="sign-up-htm">
+                @if (!ViewData.ModelState.IsValid)
+                {
+                    <div class="validation-summary-errors">
+                            @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+                            {
+                            <p class="text-danger">@error.ErrorMessage</p>
+                            }
+                    </div>
+                }
+                <div class="group">
+                    <label asp-for="UserName" class="label"><strong>Tên đăng nhập</strong></label>
+                    <input asp-for="UserName" placeholder="Vui lòng nhập tên đăng nhập" class="input" required />
+                </div>
+                <div class="group">
+                    <label asp-for="Password" class="label"><strong>Mật khẩu</strong></label>
+                    <input asp-for="Password" placeholder="Vui lòng nhập mật khẩu" class="input" data-type="password" required />
+                </div>
+                <div class="group">
+                    <label asp-for="Email" class="label"><strong>Email</strong></label>
+                    <input asp-for="Email" placeholder="Vui lòng nhập địa chỉ email" class="input" required />
+                </div>
+                <div class="group">
+                    <button type="submit" class="button"><strong>Đăng kí</strong></button>
+                </div>
+            </form>
+        </div>
+        <p class="text-center text-muted mt-5 mb-0">
+            <strong>Đã có tài khoản quay lại</strong>
+            <a asp-action="index" asp-controller="account" class="fw-bold text-body text-decoration-none">
+                <strong>Đăng nhập</strong>
+            </a>
+        </p>
+    </div>
+</div>

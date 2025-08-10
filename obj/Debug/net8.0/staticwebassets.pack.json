@@ -1,0 +1,885 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\css\\all.min.css"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\css\\loginregister.css",
+      "PackagePath": "staticwebassets\\css\\loginregister.css"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\css\\meanmenu.min.css",
+      "PackagePath": "staticwebassets\\css\\meanmenu.min.css"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\css\\scss\\base\\_mixins.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\base\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\css\\scss\\base\\_typography.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\base\\_typography.scss"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\css\\scss\\base\\_variables.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\base\\_variables.scss"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\css\\scss\\common\\_common.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\common\\_common.scss"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\css\\scss\\common\\_footer.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\common\\_footer.scss"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\css\\scss\\common\\_header.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\common\\_header.scss"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\css\\scss\\common\\_hover.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\common\\_hover.scss"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\css\\scss\\main.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\main.scss"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\css\\scss\\pages\\_404.css",
+      "PackagePath": "staticwebassets\\css\\scss\\pages\\_404.css"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\css\\scss\\pages\\_404.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\pages\\_404.scss"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\css\\scss\\pages\\_about.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\pages\\_about.scss"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\css\\scss\\pages\\_contact.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\pages\\_contact.scss"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\css\\scss\\pages\\_shop.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\pages\\_shop.scss"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\css\\scss\\prepros-6.config",
+      "PackagePath": "staticwebassets\\css\\scss\\prepros-6.config"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\css\\scss\\sections\\_about.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_about.scss"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\css\\scss\\sections\\_cart-banner.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_cart-banner.scss"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\css\\scss\\sections\\_hero.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_hero.scss"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\css\\scss\\sections\\_list.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_list.scss"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\css\\scss\\sections\\_news.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_news.scss"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\css\\scss\\sections\\_shop-banner.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_shop-banner.scss"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\css\\scss\\sections\\_testimonials.scss",
+      "PackagePath": "staticwebassets\\css\\scss\\sections\\_testimonials.scss"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\1.jpg"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\a.jpg",
+      "PackagePath": "staticwebassets\\img\\a.jpg"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\abt.jpg",
+      "PackagePath": "staticwebassets\\img\\abt.jpg"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\avaters\\avatar1.png",
+      "PackagePath": "staticwebassets\\img\\avaters\\avatar1.png"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\avaters\\avatar2.png",
+      "PackagePath": "staticwebassets\\img\\avaters\\avatar2.png"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\avaters\\avatar3.png",
+      "PackagePath": "staticwebassets\\img\\avaters\\avatar3.png"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\bg-login.jpg",
+      "PackagePath": "staticwebassets\\img\\bg-login.jpg"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\breadcrumb-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\breadcrumb-bg.jpg"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\company-logos\\1.png",
+      "PackagePath": "staticwebassets\\img\\company-logos\\1.png"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\company-logos\\2.png",
+      "PackagePath": "staticwebassets\\img\\company-logos\\2.png"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\company-logos\\3.png",
+      "PackagePath": "staticwebassets\\img\\company-logos\\3.png"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\company-logos\\4.png",
+      "PackagePath": "staticwebassets\\img\\company-logos\\4.png"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\company-logos\\5.png",
+      "PackagePath": "staticwebassets\\img\\company-logos\\5.png"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\dd.jpg",
+      "PackagePath": "staticwebassets\\img\\dd.jpg"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\img\\favicon.png"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\feature-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\feature-bg.jpg"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\hero-bg-2.jpg",
+      "PackagePath": "staticwebassets\\img\\hero-bg-2.jpg"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\hero-bg-3.jpg",
+      "PackagePath": "staticwebassets\\img\\hero-bg-3.jpg"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\hero-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\hero-bg.jpg"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\homepage-bg-pattern.png",
+      "PackagePath": "staticwebassets\\img\\homepage-bg-pattern.png"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\latest-news\\news-bg-1.jpg",
+      "PackagePath": "staticwebassets\\img\\latest-news\\news-bg-1.jpg"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\latest-news\\news-bg-2.jpg",
+      "PackagePath": "staticwebassets\\img\\latest-news\\news-bg-2.jpg"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\latest-news\\news-bg-3.jpg",
+      "PackagePath": "staticwebassets\\img\\latest-news\\news-bg-3.jpg"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\latest-news\\news-bg-4.jpg",
+      "PackagePath": "staticwebassets\\img\\latest-news\\news-bg-4.jpg"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\latest-news\\news-bg-5.jpg",
+      "PackagePath": "staticwebassets\\img\\latest-news\\news-bg-5.jpg"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\latest-news\\news-bg-6.jpg",
+      "PackagePath": "staticwebassets\\img\\latest-news\\news-bg-6.jpg"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\products\\cam-bao-loc.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\cam-bao-loc.jpg"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\products\\cam-cao-phong.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\cam-cao-phong.jpg"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\products\\cam-florida.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\cam-florida.jpg"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\products\\cam-italy.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\cam-italy.jpg"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\products\\cam-my.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\cam-my.jpg"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\products\\cam-ruot-do.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\cam-ruot-do.jpg"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\products\\cam-sanh.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\cam-sanh.jpg"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\products\\cam-sunkist.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\cam-sunkist.jpg"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\products\\cam-uc.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\cam-uc.jpg"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\products\\cam-vinh.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\cam-vinh.jpg"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\products\\dau-chile.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\dau-chile.jpg"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\products\\dau-da-lat.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\dau-da-lat.jpg"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\products\\dau-han-quoc.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\dau-han-quoc.jpg"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\products\\dau-hat-luu.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\dau-hat-luu.jpg"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\products\\dau-mehico.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\dau-mehico.jpg"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\products\\dau-ninh-binh.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\dau-ninh-binh.jpg"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\products\\dau-rung.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\dau-rung.jpg"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\products\\dau-sapa.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\dau-sapa.jpg"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\products\\dau-tay.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\dau-tay.jpg"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\products\\dau-uc-bac.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\dau-uc-bac.jpg"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\products\\le-hai-duong.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\le-hai-duong.jpg"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\products\\le-hoa-binh.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\le-hoa-binh.jpg"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\products\\le-lang-son.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\le-lang-son.jpg"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\products\\le-nam-dinh.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\le-nam-dinh.jpg"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\products\\le-pho-yen.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\le-pho-yen.jpg"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\products\\le-thai-binh.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\le-thai-binh.jpg"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\products\\le-vinh-phuc.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\le-vinh-phuc.jpg"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\products\\le-yen-bai.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\le-yen-bai.jpg"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\products\\product-img-1.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\product-img-1.jpg"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\products\\product-img-2.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\product-img-2.jpg"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\products\\product-img-3.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\product-img-3.jpg"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\products\\product-img-4.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\product-img-4.jpg"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\products\\product-img-5.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\product-img-5.jpg"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\products\\product-img-6.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\product-img-6.jpg"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\products\\tao-envy.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\tao-envy.jpg"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\products\\tao-fuji.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\tao-fuji.jpg"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\products\\tao-gala.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\tao-gala.jpg"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\products\\tao-granny-smith.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\tao-granny-smith.jpg"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\products\\tao-green.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\tao-green.jpg"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\products\\tao-honeycrisp.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\tao-honeycrisp.jpg"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\products\\tao-pink-lady.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\tao-pink-lady.jpg"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\products\\tao-red-delicious.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\tao-red-delicious.jpg"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\products\\xoai-can-tho.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\xoai-can-tho.jpg"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\products\\xoai-cao-phong.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\xoai-cao-phong.jpg"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\products\\xoai-cat.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\xoai-cat.jpg"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\products\\xoai-hoa-binh.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\xoai-hoa-binh.jpg"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\products\\xoai-keo.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\xoai-keo.jpg"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\products\\xoai-lo-cai.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\xoai-lo-cai.jpg"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\products\\xoai-tien-giang.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\xoai-tien-giang.jpg"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\products\\xoai-vinh-long.jpg",
+      "PackagePath": "staticwebassets\\img\\products\\xoai-vinh-long.jpg"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\team\\team-1.jpg",
+      "PackagePath": "staticwebassets\\img\\team\\team-1.jpg"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\team\\team-2.jpg",
+      "PackagePath": "staticwebassets\\img\\team\\team-2.jpg"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\img\\team\\team-3.jpg",
+      "PackagePath": "staticwebassets\\img\\team\\team-3.jpg"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\js\\form-validate.js",
+      "PackagePath": "staticwebassets\\js\\form-validate.js"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\js\\jquery-1.11.3.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-1.11.3.min.js"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\js\\jquery.countdown.js",
+      "PackagePath": "staticwebassets\\js\\jquery.countdown.js"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\js\\jquery.isotope-3.0.6.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.isotope-3.0.6.min.js"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\js\\jquery.meanmenu.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.meanmenu.min.js"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\js\\sticker.js",
+      "PackagePath": "staticwebassets\\js\\sticker.js"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\js\\waypoints.js",
+      "PackagePath": "staticwebassets\\js\\waypoints.js"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\webfonts\\fa-brands-400.eot_",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.eot_"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\webfonts\\fa-regular-400.eot_",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.eot_"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\webfonts\\fa-solid-900.eot_",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.eot_"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "D:\\Đồ Án\\LapTrinhWeb_2200000447_DangTranQuocCuong\\FruitSky\\FruitSky\\wwwroot\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FruitSky.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FruitSky.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.FruitSky.props",
+      "PackagePath": "build\\FruitSky.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FruitSky.props",
+      "PackagePath": "buildMultiTargeting\\FruitSky.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.FruitSky.props",
+      "PackagePath": "buildTransitive\\FruitSky.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
