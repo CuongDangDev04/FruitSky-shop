@@ -4,6 +4,7 @@ using FruitSky.Repository;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace FruitSky.Migrations
 {
     [DbContext(typeof(DataContext))]
-    partial class DataContextModelSnapshot : ModelSnapshot
+    [Migration("20250813060108_AddOrderDetailsTable")]
+    partial class AddOrderDetailsTable
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -21,6 +24,36 @@ namespace FruitSky.Migrations
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
+
+            modelBuilder.Entity("FruitSky.Models.CartItemModel", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Img")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("Price")
+                        .HasColumnType("int");
+
+                    b.Property<int>("ProductId")
+                        .HasColumnType("int");
+
+                    b.Property<string>("ProductName")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("Quantity")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("ProductId");
+
+                    b.ToTable("CartItemModel");
+                });
 
             modelBuilder.Entity("FruitSky.Models.CategoryModel", b =>
                 {
@@ -53,6 +86,9 @@ namespace FruitSky.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<int?>("CartItemId")
+                        .HasColumnType("int");
+
                     b.Property<string>("Email")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
@@ -75,6 +111,8 @@ namespace FruitSky.Migrations
                         .HasColumnType("int");
 
                     b.HasKey("Id");
+
+                    b.HasIndex("CartItemId");
 
                     b.HasIndex("UserId");
 
@@ -117,7 +155,7 @@ namespace FruitSky.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<int>("CheckoutId")
+                    b.Property<int>("CheckoutModelId")
                         .HasColumnType("int");
 
                     b.Property<int>("Price")
@@ -131,7 +169,7 @@ namespace FruitSky.Migrations
 
                     b.HasKey("Id");
 
-                    b.HasIndex("CheckoutId");
+                    b.HasIndex("CheckoutModelId");
 
                     b.HasIndex("ProductId");
 
@@ -193,20 +231,37 @@ namespace FruitSky.Migrations
                     b.ToTable("Users");
                 });
 
+            modelBuilder.Entity("FruitSky.Models.CartItemModel", b =>
+                {
+                    b.HasOne("FruitSky.Models.ProductModel", "Product")
+                        .WithMany()
+                        .HasForeignKey("ProductId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Product");
+                });
+
             modelBuilder.Entity("FruitSky.Models.CheckoutModel", b =>
                 {
+                    b.HasOne("FruitSky.Models.CartItemModel", "CartItem")
+                        .WithMany()
+                        .HasForeignKey("CartItemId");
+
                     b.HasOne("FruitSky.Models.UserModel", "User")
                         .WithMany()
                         .HasForeignKey("UserId");
+
+                    b.Navigation("CartItem");
 
                     b.Navigation("User");
                 });
 
             modelBuilder.Entity("FruitSky.Models.OrderDetailModel", b =>
                 {
-                    b.HasOne("FruitSky.Models.CheckoutModel", "Checkout")
+                    b.HasOne("FruitSky.Models.CheckoutModel", "CheckoutModel")
                         .WithMany("OrderDetails")
-                        .HasForeignKey("CheckoutId")
+                        .HasForeignKey("CheckoutModelId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
@@ -216,7 +271,7 @@ namespace FruitSky.Migrations
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.Navigation("Checkout");
+                    b.Navigation("CheckoutModel");
 
                     b.Navigation("Product");
                 });

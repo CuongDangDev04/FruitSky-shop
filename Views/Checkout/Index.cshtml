@@ -27,12 +27,15 @@
                         <div class="card single-accordion">
                             <div class="card-header" id="headingOne">
                                 <h5 class="mb-0">
-                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                    <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
+                                        data-target="#collapseThree" aria-expanded="false"
+                                        aria-controls="collapseThree">
                                         Phương thức thanh toán
                                     </button>
                                 </h5>
                             </div>
-                            <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+                            <div id="collapseThree" class="collapse" aria-labelledby="headingThree"
+                                data-parent="#accordionExample">
                                 <div class="card-body">
                                     <div class="card-details">
                                         <p>Chỉ hỗ trợ phương thức thanh toán khi nhận hàng.</p>
@@ -45,30 +48,42 @@
                         <div class="card single-accordion">
                             <div class="card-header" id="headingTwo">
                                 <h5 class="mb-0">
-                                    <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                    <button class="btn btn-link" type="button" data-toggle="collapse"
+                                        data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                                         Thông tin đặt hàng
                                     </button>
                                 </h5>
                             </div>
 
-                            <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
+                            <div id="collapseOne" class="collapse show" aria-labelledby="headingOne"
+                                data-parent="#accordionExample">
                                 <div class="card-body">
                                     <div class="billing-address-form">
                                         <div class="billing-address-form">
-                                            <form asp-action="ordersuccessful" asp-controller="Checkout" method="post">
-                                                <p><input asp-for="CheckoutModel.FullName" type="text" placeholder="Họ tên" required></p>
-                                                <p><input asp-for="CheckoutModel.Email" type="email" placeholder="Email" required></p>
-                                                <p><input asp-for="CheckoutModel.Phone" type="tel" placeholder="Số điện thoại" required></p>
-                                                <p><input asp-for="CheckoutModel.Address" type="text" placeholder="Địa chỉ nhận hàng" required></p>
-                                                <p><input asp-for="CheckoutModel.Note" type="text" cols="30" rows="10" placeholder="Ghi chú về đơn hàng, ví dụ: thời gian hay chỉ dẫn địa điểm giao hàng, chi tiết đơn" required></p>
-                                                <p><input  class="boxed-btn" type="submit" value="Hoàn tất đơn đặt hàng"></p>
+                                            <form asp-action="PostOrder" asp-controller="Checkout" method="post">
+                                                @Html.AntiForgeryToken()
+                                                <p><input asp-for="CheckoutModel.FullName" type="text"
+                                                        placeholder="Họ tên" required /></p>
+                                                <p><input asp-for="CheckoutModel.Email" type="email" placeholder="Email"
+                                                        required /></p>
+                                                <p><input asp-for="CheckoutModel.Phone" type="tel"
+                                                        placeholder="Số điện thoại" required /></p>
+                                                <p><input asp-for="CheckoutModel.Address" type="text"
+                                                        placeholder="Địa chỉ nhận hàng" required /></p>
+                                                <p>
+                                                    <textarea asp-for="CheckoutModel.Note" cols="30" rows="5"
+                                                        placeholder="Ghi chú về đơn hàng, ví dụ: thời gian hay chỉ dẫn địa điểm giao hàng, chi tiết đơn"></textarea>
+                                                </p>
+                                                <p><input class="boxed-btn" type="submit"
+                                                        value="Hoàn tất đơn đặt hàng" /></p>
                                             </form>
+
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                       
+
 
                     </div>
 

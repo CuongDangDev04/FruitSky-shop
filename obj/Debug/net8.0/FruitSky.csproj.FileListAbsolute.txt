@@ -560,3 +560,4 @@ D:/Đồ Án/LapTrinhWeb_2200000447_DangTranQuocCuong/FruitSky/FruitSky/obj/Debu
 /Users/cuong/my_project/FruitSky/FruitSky/obj/Debug/net8.0/FruitSky.pdb
 /Users/cuong/my_project/FruitSky/FruitSky/obj/Debug/net8.0/FruitSky.genruntimeconfig.cache
 /Users/cuong/my_project/FruitSky/FruitSky/obj/Debug/net8.0/ref/FruitSky.dll
+/Users/cuong/my_project/FruitSky/FruitSky/obj/Debug/net8.0/FruitSky.sourcelink.json

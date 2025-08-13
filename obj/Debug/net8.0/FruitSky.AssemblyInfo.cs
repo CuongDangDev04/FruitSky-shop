@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FruitSky")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+26b6f0f609f362b637db5228e87e3de9b82919a0")]
 [assembly: System.Reflection.AssemblyProductAttribute("FruitSky")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FruitSky")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
